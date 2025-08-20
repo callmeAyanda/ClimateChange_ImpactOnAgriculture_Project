@@ -1,6 +1,6 @@
 # 🌾 Climate Change Impact on South African Agriculture
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://baseurl.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://climate-change-agriculture.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Web%20Framework-Streamlit-FF4B4B?logo=streamlit)](https://streamlit.io/)
 [![GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github)](https://github.com/your_username/your_repo_name)

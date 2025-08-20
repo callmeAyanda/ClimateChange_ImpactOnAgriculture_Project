@@ -5,8 +5,9 @@ Follow these steps to run the application locally.
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/your_username/climate-change-agriculture-sa.git
-    cd climate-change-agriculture-sa
+    git clone https://github.com/callmeAyanda/ClimateChange_ImpactOnAgriculture_Project.git
+    ```
+    cd ClimateChange_ImpactOnAgriculture_Project
     ```
 
 2.  **Create a Virtual Environment (Recommended)**
@@ -22,7 +23,7 @@ Follow these steps to run the application locally.
 
 4.  **Run the Streamlit Application**
     ```bash
-    streamlit run app/main.py
+    streamlit run climate_change_agriculture_sa.py
     ```
     The application will open in your default web browser at `http://localhost:8501`.
 
